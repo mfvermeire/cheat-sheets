@@ -41,12 +41,12 @@
 --------------------------------------------  
 
 
-`<n>` 		       La ligne n
-`.` 		       La ligne courante
-`%` 		       Toutes les lignes du fichier
-`/<motif>/`        La prochaine ligne vérifiant le motif  
-`$` 		       Dernière ligne  
-`<spec1>,<spec2>`  De la spécification de ligne 1 à la spécification de ligne 2  
+`<n>` 		       La ligne n  
+`.` 		       La ligne courante  
+`%` 		       Toutes les lignes du fichier  
+`/<motif>/`        La prochaine ligne vérifiant le motif    
+`$` 		       Dernière ligne    
+`<spec1>,<spec2>`  De la spécification de ligne 1 à la spécification de ligne 2    
 
 
  =LES MODES=  
