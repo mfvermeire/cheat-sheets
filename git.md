@@ -1,4 +1,7 @@
- =Premier pas sur GIT=  
+![logo_git](image/git.png)
+
+
+=Premier pas sur GIT=  
 ----------------------  
 
 
