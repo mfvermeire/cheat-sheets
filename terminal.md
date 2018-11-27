@@ -1,4 +1,4 @@
-![logo-terminal](images/terminal.png)
+![logo-terminal](image/terminal.png)
 
 
 ``Les premières commandes LINUX``  
