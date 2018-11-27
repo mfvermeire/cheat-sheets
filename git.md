@@ -1,5 +1,7 @@
 ![logo_git](image/git.png)
 
+lien [lien git](http://rogerdudler.github.io/git-guide/index.fr.html)  
+
 
 =Premier pas sur GIT=  
 ----------------------  
