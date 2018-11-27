@@ -2,8 +2,8 @@
 ![logovim](image/vim.png)
 
 
-=LES COMMANDES DE VIM=
----------------------------------
+=LES COMMANDES DE VIM= 
+---------------------------------  
 
 
 `k` 	↑ 	Se déplacer vers le haut  
@@ -32,10 +32,10 @@
 `gg` 		Aller en début de document  
 `G` 		Aller en fin de document  
 `:<n>` 		Aller à la ligne <n> (où <n> est un nombre entier)  
-`f<s>` 		Jusqu'au caractère <s> en allant vers l'avant  
-`F<s>` 		Jusqu'au caractère <s> en allant vers l'arrière  
-`t<s>` 		Jusqu'au caractère <s> en allant vers l'avant et en s'arrêtant juste avant  
-`T<s>` 		Jusqu'au caractère <s> en allant vers l'arrière et en s'arrêtant juste avant  
+`f<s>` 		Jusqu'au caractère "s" en allant vers l'avant  
+`F<s>` 		Jusqu'au caractère "s" en allant vers l'arrière  
+`t<s>` 		Jusqu'au caractère "s" en allant vers l'avant et en s'arrêtant juste avant  
+`T<s>` 		Jusqu'au caractère "s" en allant vers l'arrière et en s'arrêtant juste avant  
 
  =LES INTERVALLES=  
 --------------------------------------------  
