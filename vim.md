@@ -20,7 +20,7 @@
 `as` 	    	Une phrase (sentence)  
 `ap` 		    Un paragraphe  
 `a(, a[, a<, a{`Un bloc délimité  
-`a", a', a`` 	Un bloc encadré de guillemets  
+`a", a', a` 	Un bloc encadré de guillemets  
 `at` 		    Une balise (tag) à la XML  
 
 
