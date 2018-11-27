@@ -23,9 +23,8 @@
 `a", a', a` 	Un bloc encadré de guillemets  
 `at` 		    Une balise (tag) à la XML  
 
-
- =LES MOUVEMENTS=  
----------------------------------------  
+=LES MOUVEMENTS=    
+-----------------------------------------  
 
 `$` 		Aller en fin de ligne  
 `0` 		Aller en début de ligne  
@@ -38,9 +37,8 @@
 `t<s>` 		Jusqu'au caractère <s> en allant vers l'avant et en s'arrêtant juste avant  
 `T<s>` 		Jusqu'au caractère <s> en allant vers l'arrière et en s'arrêtant juste avant  
 
-
- =LES INTERVALLES=
---------------------------------------------
+ =LES INTERVALLES=  
+--------------------------------------------  
 
 
 `<n>` 		       La ligne n
